@@ -1,0 +1,38 @@
+
+
+/*body styling*/
+
+body {
+            
+  background-color: #ec0909
+  }
+
+h1 {
+  font-size: xx-large;
+  color: rgb(119, 119, 119);
+
+}
+.button {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin:10px
+}
+
+.small-btn {
+    width: 50px;
+    height: 25px;
+}
+
+.medium-btn {
+    width: 70px;
+    height: 30px;
+}
+
+.big-btn {
+    width: 90px;
+    height: 40px;
+}
